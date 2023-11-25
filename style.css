@@ -15,7 +15,7 @@ h5{
   color: white;
 }
 #hero{
-  background-color: aquamarine;
+  background-color: rgb(221, 26, 68);
 }
 @media only screen and (max-width: 991px) {
        .hero-t{
